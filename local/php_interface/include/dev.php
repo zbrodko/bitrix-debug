@@ -52,4 +52,5 @@ class Timer
     {
         return microtime(true) - self::$start;
     }
+	
 }
